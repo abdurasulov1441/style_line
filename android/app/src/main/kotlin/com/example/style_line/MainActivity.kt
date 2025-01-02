@@ -1,4 +1,4 @@
-package com.example.style_line
+package uz.style_line
 
 import io.flutter.embedding.android.FlutterActivity
 
